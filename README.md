@@ -1,11 +1,13 @@
 # pdf-table-extraction
-Automate PDF table data extraction.\n
+Automate PDF table data extraction.
+
 Data used:
 - Pertain to _Behavioral Risk Factors_
-- On county level
-- 7counties in Florida
+- Collected on county level
+- 7 counties in Florida
 - Follow the same format
 
+Processes
 1. Explore and study the table structure
 2. Configure the table settings to extract the following.
   - Name of county
