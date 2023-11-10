@@ -9,7 +9,7 @@ Data used:
 
 Processes
 1. Explore and study the table structure
-2. Configure the table settings to extract the following.
+2. Configure the table settings in config.py to extract the following.
   - Name of county
   - Name of condition and its description
   - Data in table
