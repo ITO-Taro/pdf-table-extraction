@@ -1,5 +1,5 @@
 # pdf-table-extraction
-Automate PDF table data extraction.
+Automate PDF table data extraction.\n
 Data used:
 - Pertain to _Behavioral Risk Factors_
 - On county level
